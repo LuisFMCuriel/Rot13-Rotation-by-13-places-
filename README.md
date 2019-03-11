@@ -1,5 +1,4 @@
 # Rot13 cipher
-<div style="text-align:center"><img src ="http://lh3.ggpht.com/c1XhkTPJdlK1dn5oopdRQsibKA9k-nZTvCxJGtgpYkkX_FFlS5E_bIsW0fSHEYLKIA=w300" /></div>
 ![alt text](http://lh3.ggpht.com/c1XhkTPJdlK1dn5oopdRQsibKA9k-nZTvCxJGtgpYkkX_FFlS5E_bIsW0fSHEYLKIA=w300)
 
 Simple letter substitution cipher that replaces a letter with the 13th letter after it, in the alphabet.
