@@ -1,7 +1,7 @@
 # Rot13 cipher
 ![alt text](http://lh3.ggpht.com/c1XhkTPJdlK1dn5oopdRQsibKA9k-nZTvCxJGtgpYkkX_FFlS5E_bIsW0fSHEYLKIA=w300)
 
-Simple letter substitution cipher that replaces a letter with the 13th letter after it, in the alphabet.
+Caesar Cipher. Simple letter substitution cipher that replaces a letter with the 13th letter after it, in the alphabet.
 
 ## How it works?
 
